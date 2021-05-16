@@ -1,9 +1,7 @@
 package AbstractDepots;
 
-import AbstractProducts.AbsProductFactory;
 import AbstractProducts.ProductFactory;
 import Model.Depot;
-import Model.Product;
 
 public class DepotFactory {
 

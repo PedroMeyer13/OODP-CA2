@@ -10,10 +10,9 @@ import java.util.ArrayList;
 public class DepotAFactory extends AbsDepotFactory{
 
     // Constructor of a Depot
-    public DepotAFactory(ArrayList<Product> nativeProduct, ArrayList<Product> externalProduct1, ArrayList<Product> externalProduct2, String name, int price, int allowance, int deliveryPrice, int cashBalance ){
+    public DepotAFactory(Product nativeProduct, int externalProduct, String name, int price, int allowance, int deliveryPrice, int cashBalance ){
         this.nativeProduct = nativeProduct;
-        this.externalProduct1 = externalProduct1;
-        this.externalProduct2 = externalProduct2;
+        this.externalProduct = externalProduct;
         this.name = name;
         this.price = price;
         this.allowance = allowance;
@@ -23,6 +22,6 @@ public class DepotAFactory extends AbsDepotFactory{
 
     @Override
     public Depot createDepot() {
-        return new DepotA(nativeProduct, externalProduct1, externalProduct2, name, price, allowance, deliveryPrice, cashBalance);
+        return new DepotA(nativeProduct, externalProduct, name, price, allowance, deliveryPrice, cashBalance);
     }
 }

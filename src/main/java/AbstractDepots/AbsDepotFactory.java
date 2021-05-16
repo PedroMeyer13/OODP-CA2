@@ -7,10 +7,9 @@ import java.util.ArrayList;
 public abstract class AbsDepotFactory {
 
     // creating variables that will be necessary for all abstract factories
-    protected ArrayList<Product> nativeProduct;
-    protected ArrayList<Product> externalProduct1;
-    protected ArrayList<Product> externalProduct2;
+    protected Product nativeProduct;
     protected String name;
+    protected int externalProduct;
     protected int price;
     protected int allowance;
     protected int deliveryPrice;

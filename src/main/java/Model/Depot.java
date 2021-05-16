@@ -6,10 +6,9 @@ import java.util.ArrayList;
 public abstract class Depot {
 
     // Common attributes for all depots
-    protected ArrayList<Product> nativeProduct;
-    protected ArrayList<Product> externalProduct1;
-    protected ArrayList<Product> externalProduct2;
+    protected Product nativeProduct;
     protected String name;
+    protected int externalProduct;
     protected int price;
     protected int allowance;
     protected int deliveryPrice;
@@ -17,20 +16,12 @@ public abstract class Depot {
 
     // setters and getter for all the parameters above
 
-    public ArrayList<Product> getExternalProduct1() {
-        return externalProduct1;
+    public int getExternalProduct() {
+        return externalProduct;
     }
 
-    public void setExternalProduct1(ArrayList<Product> externalProduct1) {
-        this.externalProduct1 = externalProduct1;
-    }
-
-    public ArrayList<Product> getExternalProduct2() {
-        return externalProduct2;
-    }
-
-    public void setExternalProduct2(ArrayList<Product> externalProduct2) {
-        this.externalProduct2 = externalProduct2;
+    public void setExternalProduct(int externalProduct) {
+        this.externalProduct = externalProduct;
     }
 
     public int getPrice() {
@@ -41,11 +32,11 @@ public abstract class Depot {
         this.price = price;
     }
 
-    public ArrayList<Product> getNativeProduct() {
+    public Product getNativeProduct() {
         return nativeProduct;
     }
 
-    public void setNativeProduct(ArrayList<Product> nativeProduct) {
+    public void setNativeProduct(Product nativeProduct) {
         this.nativeProduct = nativeProduct;
     }
 

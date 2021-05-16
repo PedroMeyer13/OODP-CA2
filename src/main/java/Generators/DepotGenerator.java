@@ -2,6 +2,8 @@ package Generators;
 
 import AbstractDepots.DepotAFactory;
 import AbstractDepots.DepotFactory;
+import AbstractProducts.ProductAFactory;
+import AbstractProducts.ProductFactory;
 import Model.Depot;
 
 
@@ -16,13 +18,14 @@ public class DepotGenerator {
 
         for (int i = 1; i <= quantity; i++){
             Depot depot = DepotFactory.getInstance().getDepotFactory(
-                    new DepotAFactory(null,
-                            null,
-                            null,
-                            "Pedro",10,
-                            100,
-                            25,
-                            0));
+                    new DepotAFactory(ProductFactory.getInstance().getProductFactory(new ProductAFactory(getRandomNumber(100,10000),"ProductA")),
+                            getRandomNumber(3,15),
+                            "Depot A" + i,
+                            getRandomNumber(1,10),
+                            getRandomNumber(50,100),
+                            getRandomNumber(1,10),
+                            0
+                            ));
             depots.add(depot);
         }
         return depots;

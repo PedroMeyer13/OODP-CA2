@@ -12,7 +12,7 @@ public class Main {
 //        ArrayList<Product> generated = product.productGenerator("Product A", 10);
 
         DepotGenerator depots = new DepotGenerator();
-        ArrayList<Depot> depotGenerated = depots.DepotGenerator("Product A", 2);
-        System.out.println(depotGenerated.get(0).getExternalProduct1().get(0));
+        ArrayList<Depot> depotGenerated = depots.DepotGenerator("Product A", 50);
+        System.out.println(depotGenerated);
     }
 }
