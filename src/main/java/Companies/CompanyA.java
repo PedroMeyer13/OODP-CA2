@@ -7,7 +7,9 @@ import java.util.ArrayList;
 public class CompanyA {
 
     ArrayList<DepotA> depot = null;
-    public CompanyA(ArrayList<DepotA> emp) {
-
+    String companyNameA;
+    public CompanyA(ArrayList<DepotA> depot, String companyNameA) {
+        this.depot = depot;
+        this.companyNameA = companyNameA;
     }
 }

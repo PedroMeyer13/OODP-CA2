@@ -8,8 +8,8 @@ import java.util.ArrayList;
 public class CompanyC {
 
     ArrayList<DepotC> depot = null;
-
-    public CompanyC(ArrayList<DepotA> emp) {
+    String companyNameC;
+    public CompanyC(ArrayList<DepotA> depot, String companyNameC) {
 
     }
 }
