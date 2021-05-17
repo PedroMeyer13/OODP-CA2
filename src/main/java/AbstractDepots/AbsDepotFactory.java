@@ -10,6 +10,7 @@ public abstract class AbsDepotFactory {
     protected Product nativeProduct;
     protected String name;
     protected int externalProduct;
+    protected int nativeStock;
     protected int price;
     protected int allowance;
     protected int deliveryPrice;

@@ -11,9 +11,10 @@ public class DepotCFactory extends AbsDepotFactory{
 
 
     // Constructor of a Depot
-    public DepotCFactory(Product nativeProduct, int externalProduct, String name, int price, int allowance, int deliveryPrice, int cashBalance ){
+    public DepotCFactory(Product nativeProduct, int externalProduct, int nativeSock,String name, int price, int allowance, int deliveryPrice, int cashBalance ){
         this.nativeProduct = nativeProduct;
         this.externalProduct = externalProduct;
+        this.nativeStock = nativeStock;
         this.name = name;
         this.price = price;
         this.allowance = allowance;
@@ -23,6 +24,6 @@ public class DepotCFactory extends AbsDepotFactory{
 
     @Override
     public Depot createDepot() {
-        return new DepotC(nativeProduct, externalProduct, name, price, allowance, deliveryPrice, cashBalance);
+        return new DepotC(nativeProduct, externalProduct, nativeStock, name, price, allowance, deliveryPrice, cashBalance);
     }
 }

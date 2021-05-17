@@ -8,9 +8,10 @@ import java.util.ArrayList;
 public class DepotB extends Depot {
 
     // Defining a constructor for my depotA with the parameters inherited from Depot Model
-    public DepotB(Product nativeProduct, int externalProduct, String name, int price, int allowance, int deliveryPrice, int cashBalance ){
+    public DepotB(Product nativeProduct, int externalProduct, int nativeStock,String name, int price, int allowance, int deliveryPrice, int cashBalance ){
         this.nativeProduct = nativeProduct;
         this.externalProduct = externalProduct;
+        this.nativeStock = nativeStock;
         this.name = name;
         this.price = price;
         this.allowance = allowance;

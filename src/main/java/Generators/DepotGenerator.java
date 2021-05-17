@@ -22,6 +22,7 @@ public class DepotGenerator {
                 Depot depot = DepotFactory.getInstance().getDepotFactory(
                         new DepotAFactory(ProductFactory.getInstance().getProductFactory(new ProductAFactory(getRandomNumber(100,10000))),
                                 0,
+                                getRandomNumber(15,50),
                                 "Depot A" + i,
                                 getRandomNumber(1,10),
                                 getRandomNumber(50,100),
@@ -37,6 +38,7 @@ public class DepotGenerator {
                 Depot depot = DepotFactory.getInstance().getDepotFactory(
                         new DepotAFactory(ProductFactory.getInstance().getProductFactory(new ProductBFactory(getRandomNumber(100,10000))),
                                 0,
+                                getRandomNumber(15,50),
                                 "Depot B" + i,
                                 getRandomNumber(1,10),
                                 getRandomNumber(50,100),
@@ -51,6 +53,7 @@ public class DepotGenerator {
                 Depot depot = DepotFactory.getInstance().getDepotFactory(
                         new DepotAFactory(ProductFactory.getInstance().getProductFactory(new ProductCFactory(getRandomNumber(100,10000))),
                                 0,
+                                getRandomNumber(15,50),
                                 "Depot C" + i,
                                 getRandomNumber(1,10),
                                 getRandomNumber(50,100),

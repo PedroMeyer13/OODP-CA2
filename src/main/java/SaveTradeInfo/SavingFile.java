@@ -7,11 +7,11 @@ import java.util.ArrayList;
 
 public class SavingFile {
 
-  public SavingFile(ArrayList<Depot> depots){
+  public SavingFile(ArrayList<Depot> depots, String filename){
 
       try{
           BufferedWriter bw = new BufferedWriter(
-                  new FileWriter("C:\\Users\\pedro\\IdeaProjects\\OODP-CA2\\src\\main\\java\\Textefiles\\result.txt"));
+                  new FileWriter("C:\\Users\\pedro\\IdeaProjects\\OODP-CA2\\src\\main\\java\\Textefiles\\" + filename));
           bw.write(String.valueOf(depots));
           bw.close();
 

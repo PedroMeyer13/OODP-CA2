@@ -9,12 +9,21 @@ public abstract class Depot {
     protected Product nativeProduct;
     protected String name;
     protected int externalProduct;
+    protected int nativeStock;
     protected int price;
     protected int allowance;
     protected int deliveryPrice;
     protected int cashBalance;
 
     // setters and getter for all the parameters above
+
+    public int getNativeStock() {
+        return nativeStock;
+    }
+
+    public void setNativeStock(int nativeStock) {
+        this.nativeStock = nativeStock;
+    }
 
     public int getExternalProduct() {
         return externalProduct;
