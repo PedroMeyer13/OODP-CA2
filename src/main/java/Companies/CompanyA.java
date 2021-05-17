@@ -1,15 +1,21 @@
 package Companies;
 
+import Generators.DepotGenerator;
+import Model.Depot;
 import MyDepots.DepotA;
 
 import java.util.ArrayList;
 
-public class CompanyA {
+public class CompanyA extends Companies{
 
-    ArrayList<DepotA> depot = null;
-    String companyNameA;
-    public CompanyA(ArrayList<DepotA> depot, String companyNameA) {
-        this.depot = depot;
-        this.companyNameA = companyNameA;
+    public CompanyA(String companyNameA) {
+        DepotGenerator depots = new DepotGenerator();
+        this.depot = depots.DepotGenerator(1, 50);;
+        this.companyName = companyNameA;
+    }
+
+    @Override
+    public String toString() {
+        return "Company Name:  "+ getCompanyName() +" \nDepots " + getDepot() + "\n";
     }
 }

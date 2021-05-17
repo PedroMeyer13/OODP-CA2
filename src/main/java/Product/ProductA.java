@@ -4,9 +4,9 @@ import Model.Product;
 
 public class ProductA extends Product {
 
-    public ProductA(int price, String name){
+    public ProductA(int price){
         this.ID = price;
-        this.name = name;
+        this.name = "Product A";
     }
 
     @Override

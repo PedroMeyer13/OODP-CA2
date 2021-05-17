@@ -21,6 +21,6 @@ public class DepotC extends Depot {
     // overriding this method to display information related to this depot
     @Override
     public String toString() {
-        return "Depot Name: " + getName() + ", Native Product "+getNativeProduct() + ", Depot external Product:" + getExternalProduct() + ", Depot Price: " +getPrice() +"\n";
+        return "Depot Name: " + getName() + ", Native Product: "+getNativeProduct() + ", Depot external Product:" + getExternalProduct() + ", Depot Price: " +getPrice() +"\n";
     }
 }
