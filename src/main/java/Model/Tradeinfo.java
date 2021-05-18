@@ -8,6 +8,15 @@ public class Tradeinfo {
     private String product;
     private int total;
 
+    //Buyer , seller, product , total
+    public Tradeinfo(String company, String transactionType, String client, String product, int total){
+        this.company = company;
+        this.transactionType = transactionType;
+        this.client = client;
+        this.product = product;
+        this.total = total;
+    }
+
     public String getCompany() {
         return company;
     }
@@ -32,16 +41,6 @@ public class Tradeinfo {
         this.client = client;
     }
 
-    //Buyer , seller, product , total
-    public Tradeinfo(String company, String transactionType, String client, String product, int total){
-        this.company = company;
-        this.transactionType = transactionType;
-        this.client = client;
-        this.product = product;
-        this.total = total;
-    }
-
-
     public String getProduct() {
         return product;
     }
@@ -56,6 +55,11 @@ public class Tradeinfo {
 
     public void setTotal(int total) {
         this.total = total;
+    }
+
+    @Override
+    public String toString() {
+        return "Company: "+ getCompany() +", Transaction Type: " +getTransactionType() +", Client: "+ getClient()+", Product: " +getProduct()+ ", Total: " +getTotal()+ "\n";
     }
 
 }

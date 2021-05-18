@@ -4,16 +4,17 @@ package Model;
 public abstract class Product {
 
     // Common attributes for all products
-    protected int ID;
+    protected int price;
     protected String name;
 
     // setters and getter for all the parameters above
-    public int getID() {
-        return ID;
+
+    public int getPrice() {
+        return price;
     }
 
-    public void setID(int ID) {
-        this.ID = ID;
+    public void setPrice(int price) {
+        this.price = price;
     }
 
     public String getName() {

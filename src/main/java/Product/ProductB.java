@@ -5,13 +5,12 @@ import Model.Product;
 public class ProductB extends Product {
 
     public ProductB(int price){
-        this.ID = price;
-        this.name = "Product B";
+        this.price = price;
+        this.name = "Product A";
     }
 
     @Override
     public String toString() {
-        return "Product Name: " + getName() + ", Price: " + getID() ;
+        return "Product name: " + getName() + ", Product price: " + getPrice() ;
     }
-
 }

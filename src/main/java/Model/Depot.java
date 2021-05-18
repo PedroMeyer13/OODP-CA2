@@ -10,7 +10,6 @@ public abstract class Depot {
     protected String name;
     protected int externalProduct;
     protected int nativeStock;
-    protected int price;
     protected int allowance;
     protected int deliveryPrice;
     protected int cashBalance;
@@ -31,14 +30,6 @@ public abstract class Depot {
 
     public void setExternalProduct(int externalProduct) {
         this.externalProduct = externalProduct;
-    }
-
-    public int getPrice() {
-        return price;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
     }
 
     public Product getNativeProduct() {

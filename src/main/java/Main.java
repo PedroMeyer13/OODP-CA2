@@ -14,10 +14,8 @@ public class Main {
         companies[0] = new CompanyA("Company A");
         companies[1] = new CompanyB("CompanyB");
         companies[2] = new CompanyC("CompanyC");
-        System.out.println(companies[0]);
-        System.out.println(companies[1]);
-        System.out.println(companies[0]);
-        trade.startTrading(companies);
+        System.out.println(companies[0].getDepot());
+//        trade.startTrading(companies);
 //        CompanyA companyA = new CompanyA("Company A");
 //        System.out.println(companyA.getDepot().get(1));
 //        int nativeStock = companyA.getDepot().get(1).getNativeStock();
