@@ -69,7 +69,6 @@ public abstract class Depot {
     }
 
     public void setCashBalance(int cashBalance) {
-        cashBalance = cashBalance;
+        this.cashBalance = cashBalance;
     }
-
 }

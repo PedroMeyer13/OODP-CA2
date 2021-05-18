@@ -6,7 +6,7 @@ public class ProductC extends Product {
 
     public ProductC(int price){
         this.price = price;
-        this.name = "Product A";
+        this.name = "Product C";
     }
 
     @Override

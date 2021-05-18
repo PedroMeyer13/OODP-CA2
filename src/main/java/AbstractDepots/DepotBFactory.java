@@ -20,7 +20,6 @@ public class DepotBFactory extends AbsDepotFactory{
         this.cashBalance = cashBalance;
     }
 
-
     @Override
     public Depot createDepot() {
         return new DepotB(nativeProduct, externalProduct, nativeStock,name, allowance, deliveryPrice, cashBalance);
