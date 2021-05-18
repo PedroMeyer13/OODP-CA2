@@ -26,14 +26,15 @@ public class Trading  {
             for (int i=0; i <= buyer.getDepot().size()-1; i++){
                 buyer.getDepot().get(i);
                 seller = companies[getRandomNumber(0,1)];
-                for(int j = 0; j<=0; j++){
-                    sellerNative = seller.getDepot().get(j).getNativeStock();
-                    sellerPrice = seller.getDepot().get(i).getDeliveryPrice() + seller.getDepot().get(i).getNativeProduct().getPrice();
+                for(int j = 0; j<=buyer.getDepot().size()-1; j++){
+                    int trader = getRandomNumber(0,49);
+                    sellerNative = seller.getDepot().get(trader).getNativeStock();
+                    sellerPrice = seller.getDepot().get(trader).getDeliveryPrice() + seller.getDepot().get(i).getNativeProduct().getPrice();
                     buyerExternal = buyer.getDepot().get(i).getExternalProduct();
                     allowance = buyer.getDepot().get(i).getAllowance();
-                    product = seller.getDepot().get(j).getNativeProduct().getName();
+                    product = seller.getDepot().get(trader).getNativeProduct().getName();
+
                     if (buyerConditions(buyerExternal,allowance,sellerPrice)){
-                        System.out.println("Depot " + j);
                         break;
                     }
                     if (sellerConditions(sellerNative)){
@@ -47,6 +48,7 @@ public class Trading  {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+        System.out.println(buyer.getTrade());
     }
 
     public Boolean sellerConditions(int sellerNative){
@@ -58,7 +60,7 @@ public class Trading  {
     }
 
     public Boolean buyerConditions(int buyerExternal, int allowance, int sellerPrice){
-        if(allowance > sellerPrice || buyerExternal < 40 ){
+        if(allowance > sellerPrice && buyerExternal < 40 ){
             return checks = false;
         }
         return checks = true;
