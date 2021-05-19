@@ -80,15 +80,14 @@ public class Trading<boolen> {
             j = getRandomNumber(0, 2);
         } while (i == j);
 
-        k = getRandomDepot(companies[i].getBuyList());
+        int holder = getRandomDepot(companies[i].getBuyList());
+        k = companies[i].getBuyList().get(holder);
         buyer = companies[i].getDepot(k);
+        System.out.println(buyer.getName());
         l = getRandomDepot(companies[j].getBuyList());
         seller = companies[j].getDepot(l);
         if ((buyer.getExternalProduct() > 39)) {
-            System.out.println(companies[i].getBuyList());
-            System.out.println(companies[i].getDepot(k).getName());
-            System.out.println(k);
-            companies[i].getBuyList().remove(k);
+            System.out.println(companies[i].getBuyList().remove(holder));
             return false;
         }else if((seller.getNativeStock() < 14)){
             return false;
