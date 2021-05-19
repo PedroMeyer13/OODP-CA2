@@ -63,9 +63,7 @@ public class Trading<boolen> {
 
     public int getRandomDepot(ArrayList<Integer> options){
         int index = new Random().nextInt(options.size());
-        System.out.println(index);
-//        System.out.println(options.get(index));
-        return options.get(index);
+        return index;
     }
 
     private String isTradable(Companies[] companies) {
