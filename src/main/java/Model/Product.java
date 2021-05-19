@@ -7,6 +7,17 @@ public abstract class Product {
     protected int price;
     protected String name;
 
+    public int getDelivery() {
+        return delivery;
+    }
+
+    public void setDelivery(int delivery) {
+        this.delivery = delivery;
+    }
+
+    protected int delivery;
+
+
     // setters and getter for all the parameters above
 
     public int getPrice() {

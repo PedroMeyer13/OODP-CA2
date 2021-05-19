@@ -7,13 +7,13 @@ import Product.*;
 public class ProductAFactory extends AbsProductFactory{
 
     // Constructor for the product
-    public ProductAFactory(int price){
-        this.price = price;
+    public ProductAFactory(){
         this.name = "Product A";
+
     }
     // method inherited from the AbsProductFactory to create a product
     @Override
     public Product createProduct() {
-        return new ProductA(price);
+        return new ProductA();
     }
 }

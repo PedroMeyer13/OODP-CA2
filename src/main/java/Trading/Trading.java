@@ -2,13 +2,14 @@ package Trading;
 
 import Companies.Companies;
 import Model.Tradeinfo;
+import MyDepots.Depots;
 
 import java.util.ArrayList;
 
 public class Trading  {
 
-    private Companies buyer = null;
-    private Companies seller = null;
+    private Depots buyer = null;
+    private Depots seller = null;
     private ArrayList<Tradeinfo> tradeList = new ArrayList<>();
     private boolean checks;
     private String product;
@@ -16,43 +17,73 @@ public class Trading  {
     private int sellerNative;
     private int buyerExternal;
     private int allowance;
+    private int i;
+    private int j;
+
+    public void startTrading(Companies[] companies) {
+        while (isTradable(companies)) {
+            CanTrade(companies);
+            try {
+
+//                for(int j = 0; j<=buyer.getDepot().size()-1; j++){
+//                    int trader = getRandomNumber(0,49);
+//                    sellerNative = seller.getDepot().get(trader).getNativeStock();
+//                    sellerPrice = seller.getDepot().get(trader).getDeliveryPrice() + seller.getDepot().get(i).getNativeProduct().getPrice();
+//                    buyerExternal = buyer.getDepot().get(i).getExternalProduct();
+//                    allowance = buyer.getDepot().get(i).getAllowance();
+//                    pro}
+//                  duct = seller.getDepot().get(trader).getNativeProduct().getName();
+//
+
+                buyer.getTrade().add(newTransaction(companies[i].getCompanyName(), "Buy", companies[j].getCompanyName(), seller.getNativeProduct().getName(), seller.getNativeProduct().getPrice() + seller.getNativeProduct().getDelivery()));
+                // buyer.getTrade().add(newTransaction(buyer.getCompanyName(), "Buy", seller.getCompanyName(), product, sellerPrice));
+                seller.getTrade().add(newTransaction(companies[j].getCompanyName(), "Sell", companies[i].getCompanyName(), seller.getNativeProduct().getName(), seller.getNativeProduct().getPrice() + seller.getNativeProduct().getDelivery()));
+                buyer.setAllowance(buyer.getAllowance() - seller.getNativeProduct().getPrice() + seller.getNativeProduct().getDelivery());
+                seller.setCashBalance(seller.getNativeProduct().getPrice() + seller.getNativeProduct().getDelivery());
 
 
-    public void startTrading(Companies buying,Companies[] companies){
-
-        buyer = buying;
-
-        try {
-            for (int i=0; i <= buyer.getDepot().size()-1; i++){
-                buyer.getDepot().get(i);
-                seller = companies[getRandomNumber(0,1)];
-                for(int j = 0; j<=buyer.getDepot().size()-1; j++){
-                    int trader = getRandomNumber(0,49);
-                    sellerNative = seller.getDepot().get(trader).getNativeStock();
-                    sellerPrice = seller.getDepot().get(trader).getDeliveryPrice() + seller.getDepot().get(i).getNativeProduct().getPrice();
-                    buyerExternal = buyer.getDepot().get(i).getExternalProduct();
-                    allowance = buyer.getDepot().get(i).getAllowance();
-                    product = seller.getDepot().get(trader).getNativeProduct().getName();
-
-                    if (buyerConditions(buyerExternal,allowance,sellerPrice)){
-                        break;
-                    }
-                    if (sellerConditions(sellerNative)){
-                        buyer.getTrade().add(newTransaction(buyer.getCompanyName(), "Buy", seller.getCompanyName(), product, sellerPrice));
-                        seller.getTrade().add(newTransaction(seller.getCompanyName(), "Sell", buyer.getCompanyName(), product, sellerPrice));
-                        buyer.getDepot().get(j).setAllowance(allowance - sellerPrice);
-                        seller.getDepot().get(j).setCashBalance(sellerPrice);
-                    }
-                }
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
             }
-
-        }catch (Exception e){
-            System.out.println(e.getMessage());
+            System.out.println(buyer.getTrade());
+            System.out.println(seller.getTrade());
         }
-        System.out.println(buyer.getTrade());
-        System.out.println(seller.getTrade());
     }
+private boolean isTradable(Companies [] companies){
+    for(Companies c: companies){
+        for(int m=0; m<50; m++ )
+           if( c.getCanBuy()[m]>0)
+            return true;
+        }
+        return false;
 
+}
+
+public void CanTrade(Companies[] companies) {
+
+    do {
+        i = getRandomNumber(0, 2);
+        j = getRandomNumber(0, 2);
+    } while (i == j);
+
+    int k = getRandomNumber(1, companies[i].getCanBuy().length);
+    buyer = companies[i].getDepot(k);
+
+    if (!canBuy(buyer.getExternalProduct(), buyer.getAllowance(), buyer.getNativeProduct().getPrice() + buyer.getNativeProduct().getDelivery())) {
+        companies[i].removeItemCanBuy(k);
+        CanTrade(companies);
+        return;
+    }
+    k = getRandomNumber(1, companies[i].getCanBuy().length);
+    seller = companies[j].getDepot(k);
+        if (!sellerConditions(seller.getNativeStock())){
+            companies[i].removeItemCanBuy(k);
+            CanTrade(companies);
+            return;
+        }
+
+
+}
     public Boolean sellerConditions(int sellerNative){
 
         if (sellerNative > 15){
@@ -61,11 +92,11 @@ public class Trading  {
         return checks = false;
     }
 
-    public Boolean buyerConditions(int buyerExternal, int allowance, int sellerPrice){
+    public Boolean canBuy(int buyerExternal, int allowance, int sellerPrice){
         if(allowance > sellerPrice && buyerExternal < 40 ){
-            return checks = false;
+            return checks = true;
         }
-        return checks = true;
+        return checks = false;
     }
 
     public Tradeinfo newTransaction(String company, String transactionType, String client, String product, int total){

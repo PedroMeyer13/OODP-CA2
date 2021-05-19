@@ -1,20 +1,26 @@
 package Companies;
 
-import Generators.DepotGenerator;
-import MyDepots.DepotB;
+import AbstractProducts.ProductBFactory;
+import AbstractProducts.ProductFactory;
+import Model.Product;
+import MyDepots.Depots;
 
-import java.util.ArrayList;
 
 public class CompanyB extends Companies {
 
-    public CompanyB(String companyNameB ) {
-        DepotGenerator depots = new DepotGenerator();
-        this.depot = depots.DepotGenerator( 2,50);
-        this.companyName = companyNameB;
-    }
+
+        public CompanyB(String companyNameB) {
+
+            this.companyName = companyNameB;
+            Product productB = ProductFactory.getInstance().getProductFactory(new ProductBFactory());
+            for (int i =  1; i <= 50; i++){
+                depot.add(new Depots("B"+(i), productB));
+                this.setCanBuy(i);
+            }
+        }
 
     @Override
     public String toString() {
-        return "Company Name:  "+ getCompanyName() +" \nDepots " + getDepot() + "\n";
+        return "Company Name:  "+ getCompanyName();
     }
 }

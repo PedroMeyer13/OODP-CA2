@@ -1,9 +1,11 @@
-package Model;
+package MyDepots;
+
+import Model.Product;
+import Model.Tradeinfo;
 
 import java.util.ArrayList;
 
-// Generic depot. Everything related to a depot is here
-public abstract class Depot {
+public class Depots {
 
     // Common attributes for all depots
     protected Product nativeProduct;
@@ -13,7 +15,30 @@ public abstract class Depot {
     protected int allowance;
     protected int deliveryPrice;
     protected int cashBalance;
+    protected int price;
 
+
+    public ArrayList<Tradeinfo> getTrade() {
+        return trade;
+    }
+
+    public void setTrade(ArrayList<Tradeinfo> trade) {
+        this.trade = trade;
+    }
+
+    protected ArrayList<Tradeinfo> trade = new ArrayList<>();
+
+public Depots(String name, Product nativeProduct){
+            this.name = name;
+            this.nativeProduct = nativeProduct;
+            this.nativeStock = getRandomNumber(15,50);
+            this.externalProduct = getRandomNumber(3,40);
+            this.allowance = getRandomNumber(50,100);
+            nativeProduct.setPrice(getRandomNumber(1,10));
+            nativeProduct.setDelivery(getRandomNumber(1,10));
+
+
+}
     // setters and getter for all the parameters above
 
     public int getNativeStock() {
@@ -71,4 +96,10 @@ public abstract class Depot {
     public void setCashBalance(int cashBalance) {
         this.cashBalance = cashBalance;
     }
+
+    private int getRandomNumber(int min, int max){
+        int random_int = (int)Math.floor(Math.random()*(max-min+1) + min);
+        return random_int;
+    }
+
 }

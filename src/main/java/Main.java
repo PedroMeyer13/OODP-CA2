@@ -10,11 +10,14 @@ public class Main {
 
         //new mainMenu().menu();
 
-        Companies[] companies = new Companies[2];
+        Companies[] companies = new Companies[3];
         Trading trade = new Trading();
         companies[0] = new CompanyB("CompanyB");
         companies[1] = new CompanyC("CompanyC");
-        trade.startTrading(new CompanyA("Company A") ,companies);
+        companies[2] = new CompanyA("CompanyA");
+        trade.startTrading(companies);
+//     trade.CanTrade(companies);
+        //   trade.startTrading(new CompanyA("Company A") ,companies);
         //System.out.println(companies[0].getDepot());
     }
 }

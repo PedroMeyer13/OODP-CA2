@@ -4,9 +4,10 @@ import Model.Product;
 
 public class ProductA extends Product {
 
-    public ProductA(int price){
+    public ProductA(){
         this.price = price;
         this.name = "Product A";
+
     }
 
     @Override

@@ -1,13 +1,15 @@
 package SaveTradeInfo;
 
-import Model.Depot;
+
+
+import MyDepots.Depots;
 
 import java.io.*;
 import java.util.ArrayList;
 
 public class SavingFile {
 
-  public SavingFile(ArrayList<Depot> depots, String filename){
+  public SavingFile(ArrayList<Depots> depots, String filename){
 
       try{
           BufferedWriter bw = new BufferedWriter(
