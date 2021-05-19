@@ -13,9 +13,10 @@ public class CompanyB extends Companies {
 
             this.companyName = companyNameB;
             Product productB = ProductFactory.getInstance().getProductFactory(new ProductBFactory());
-            for (int i =  1; i <= 50; i++){
-                depot.add(new Depots("B"+(i), productB));
+            for (int i =  0; i <= 49; i++){
+                depot.add(new Depots("B"+(i + 1), productB));
                 this.setCanBuy(i);
+                this.buyList.add(i);
             }
         }
 
@@ -23,4 +24,6 @@ public class CompanyB extends Companies {
     public String toString() {
         return "Company Name:  "+ getCompanyName();
     }
+
+
 }

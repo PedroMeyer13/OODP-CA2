@@ -4,17 +4,26 @@ import Model.Tradeinfo;
 import MyDepots.Depots;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 
-// template of a Company
 public abstract class Companies {
 
-    // variables that every company should have
-    protected int[]canBuy = new int[50];
+    protected ArrayList<Integer> buyList = new ArrayList<>();
+    protected Set<Integer> canBuy = new HashSet<>();
     protected ArrayList<Tradeinfo> trade = new ArrayList<>();
     protected ArrayList<Depots> depot = new ArrayList<>();
     protected String companyName;
 
-    // setters and getters of my variables
+
+    public ArrayList<Integer> getBuyList() {
+        return buyList;
+    }
+
+    public void setBuyList(ArrayList<Integer> buyList) {
+        this.buyList = buyList;
+    }
+
     public void setTrade(ArrayList<Tradeinfo> trade) {
         this.trade = trade;
     }
@@ -35,15 +44,16 @@ public abstract class Companies {
         this.companyName = companyName;
     }
 
-    public int[] getCanBuy() {
+    public Set<Integer> getCanBuy() {
         return canBuy;
     }
 
     public void setCanBuy(int i) {
-        this.canBuy[i-1] = i;
+
+        this.canBuy.add(i-1);
     }
 
     public void removeItemCanBuy(int i) {
-        this.canBuy[i-1] = -1;
+        this.canBuy.remove(i-1);
     }
 }

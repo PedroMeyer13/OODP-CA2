@@ -12,9 +12,10 @@ public class CompanyC extends Companies{
 
             this.companyName = companyNameC;
             Product productC = ProductFactory.getInstance().getProductFactory(new ProductCFactory());
-            for (int i =  1; i <= 50; i++){
-                depot.add(new Depots("B"+(i), productC));
+            for (int i =  0; i <= 49; i++){
+                depot.add(new Depots("C"+(i + 1), productC));
                 this.setCanBuy(i);
+                this.buyList.add(i);
             }
         }
 

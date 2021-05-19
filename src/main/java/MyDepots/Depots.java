@@ -18,6 +18,19 @@ public class Depots {
     protected int price;
 
 
+    public Depots(String name, Product nativeProduct){
+            this.name = name;
+            this.nativeProduct = nativeProduct;
+            this.nativeStock = getRandomNumber(15,50);
+            this.externalProduct = getRandomNumber(3,40);
+            this.allowance = getRandomNumber(50,100);
+            this.price= (getRandomNumber(1,10));
+            this.deliveryPrice=(getRandomNumber(1,10));
+
+
+}
+    // setters and getter for all the parameters above
+
     public ArrayList<Tradeinfo> getTrade() {
         return trade;
     }
@@ -28,18 +41,14 @@ public class Depots {
 
     protected ArrayList<Tradeinfo> trade = new ArrayList<>();
 
-public Depots(String name, Product nativeProduct){
-            this.name = name;
-            this.nativeProduct = nativeProduct;
-            this.nativeStock = getRandomNumber(15,50);
-            this.externalProduct = getRandomNumber(3,40);
-            this.allowance = getRandomNumber(50,100);
-            nativeProduct.setPrice(getRandomNumber(1,10));
-            nativeProduct.setDelivery(getRandomNumber(1,10));
+    public int getPrice() {
+        return price;
+    }
 
+    public void setPrice(int price) {
+        this.price = price;
+    }
 
-}
-    // setters and getter for all the parameters above
 
     public int getNativeStock() {
         return nativeStock;
