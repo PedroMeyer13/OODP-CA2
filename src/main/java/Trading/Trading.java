@@ -39,6 +39,7 @@ public class Trading  {
                     }
                     if (sellerConditions(sellerNative)){
                         buyer.getTrade().add(newTransaction(buyer.getCompanyName(), "Buy", seller.getCompanyName(), product, sellerPrice));
+                        seller.getTrade().add(newTransaction(seller.getCompanyName(), "Sell", buyer.getCompanyName(), product, sellerPrice));
                         buyer.getDepot().get(j).setAllowance(allowance - sellerPrice);
                         seller.getDepot().get(j).setCashBalance(sellerPrice);
                     }
@@ -49,6 +50,7 @@ public class Trading  {
             System.out.println(e.getMessage());
         }
         System.out.println(buyer.getTrade());
+        System.out.println(seller.getTrade());
     }
 
     public Boolean sellerConditions(int sellerNative){
