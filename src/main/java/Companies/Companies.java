@@ -29,7 +29,7 @@ public abstract class Companies {
     }
 
     public Depots getDepot(int randomNumber) {
-        return depot.get(randomNumber-1);
+        return depot.get(randomNumber);
     }
 
     public void setDepot(ArrayList<Depots> depot) {
