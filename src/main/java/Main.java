@@ -15,8 +15,14 @@ public class Main {
         companies[0] = new CompanyB("CompanyB");
         companies[1] = new CompanyC("CompanyC");
         companies[2] = new CompanyA("CompanyA");
-        System.out.println(companies[0].getBuyList());
-        //trade.startTrading(companies);
+//        int result = trade.getRandomDepot(companies[0].getBuyList());
+//        System.out.println(companies[0].getBuyList());
+//        companies[0].getBuyList().remove(result);
+//        trade.getRandomDepot(companies[0].getBuyList());
+//        System.out.println(companies[0].getBuyList());
+
+        //System.out.println(companies[0].getBuyList());
+         trade.startTrading(companies);
         //   trade.startTrading(new CompanyA("Company A") ,companies);
         //System.out.println(companies[0].getDepot());
     }

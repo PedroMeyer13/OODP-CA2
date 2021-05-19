@@ -5,13 +5,14 @@ import Model.Tradeinfo;
 import MyDepots.Depots;
 
 import java.util.ArrayList;
+import java.util.Random;
 
-public class Trading {
+public class Trading<boolen> {
 
     private Depots buyer = null;
     private Depots seller = null;
     private ArrayList<Tradeinfo> tradeList = new ArrayList<>();
-    //      private boolean checks;
+//    private boolean checks;
 //    private String product;
 //    private int sellerPrice;
 //    private int sellerNative;
@@ -37,22 +38,34 @@ public class Trading {
         System.out.println(companies[0].getDepot(3).getTrade());
     }
 
-//    private boolen
+    private boolean allowTrade(Companies[] companies){
+        if (CanTrade(companies)) {
+            return true;
+        }
+        return false;
+    }
     private boolean setTrade(Companies[] companies) {
-        int size = 2;
-        if ((companies[0].getCanBuy().size() < size) && (companies[1].getCanBuy().size() < size)) {
+        int size = 1;
+        if ((companies[0].getBuyList().size() < size) && (companies[1].getBuyList().size() < size)) {
             return false;
         }
-        if ((companies[0].getCanBuy().size() < size) && (companies[2].getCanBuy().size() < size)) {
+        if ((companies[0].getBuyList().size() < size) && (companies[2].getBuyList().size() < size)) {
             return false;
         }
-        if ((companies[2].getCanBuy().size() < size) && (companies[1].getCanBuy().size() < size)) {
+        if ((companies[2].getBuyList().size() < size) && (companies[1].getBuyList().size() < size)) {
             return false;
         }
-        while (isTradable(companies) != "true") {
+        while (allowTrade(companies) == true) {
             isTradable(companies);
         }
         return true;
+    }
+
+    public int getRandomDepot(ArrayList<Integer> options){
+        int index = new Random().nextInt(options.size());
+        System.out.println(index);
+//        System.out.println(options.get(index));
+        return options.get(index);
     }
 
     private String isTradable(Companies[] companies) {
@@ -80,6 +93,7 @@ public class Trading {
         }
         return true;
     }
+
 
     public Tradeinfo newTransaction(String company, String transactionType, String client, String product, int total) {
 
