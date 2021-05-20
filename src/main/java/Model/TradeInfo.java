@@ -100,7 +100,7 @@ public class TradeInfo {
 
     @Override
     public String toString() {
-        return "Company: "+ getCompany() +", Transaction Type: " +getTransactionType() +", Client: "+ getClient()+", Product: " +getProduct()+ ", Total: " +getTotal()+ "\n";
+        return "Depot: "+ getCompany() +", Transaction Type: " +getTransactionType() +", Client: "+ getClient()+", Product: " +getProduct()+ ", Total: " +getTotal()+ "\n";
     }
 
 
