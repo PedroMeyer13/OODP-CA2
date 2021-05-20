@@ -21,7 +21,6 @@ public class Trading {
         while ((setTrade(companies))) {
                 // check if the buyer has enough money to buy the product
             if (companies[buyerControl].getDepot(buyerDepot).getAllowance() > (companies[sellerControl].getDepot(sellerDepot).getPrice() + companies[sellerControl].getDepot(sellerDepot).getDeliveryPrice())) {
-
                 // add a new transaction to the buyer's record
                 buyer.getTrade().add(newTransaction(buyer.getName(), "Buy", seller.getName(), seller.getNativeProduct().getName(), seller.getPrice() + seller.getDeliveryPrice()));
                 // add a new transaction to the seller record
