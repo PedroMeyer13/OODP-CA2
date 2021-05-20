@@ -1,27 +1,28 @@
 package SaveTradeInfo;
 
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 
-import MyDepots.Depots;
-
-import java.io.*;
-import java.util.ArrayList;
-
+// this class will save the transactions
 public class SavingFile {
 
-  public SavingFile(ArrayList<Depots> depots, String filename){
+    // This is the method that will save the information
+    public static void SavingTransactions(String depots, String filename) {
+        try {
+            // This creates a BufferedWriter that will save the values and create a new file in case it does not exist
+            BufferedWriter bw = new BufferedWriter(new FileWriter("src/main/java/Textefiles/" + filename));
+            // write the transactions
+            bw.write(String.valueOf(depots));
+            // close the instance
+            bw.close();
 
-      try{
-          BufferedWriter bw = new BufferedWriter(
-                  new FileWriter("C:\\Users\\pedro\\IdeaProjects\\OODP-CA2\\src\\main\\java\\Textefiles\\" + filename));
-          bw.write(String.valueOf(depots));
-          bw.close();
-
-      }catch (
-              IOException e) {
-          e.printStackTrace();
-      }
+        } catch (
+                IOException e) {
+            e.printStackTrace();
+        }
 
 
-  }
+    }
 }

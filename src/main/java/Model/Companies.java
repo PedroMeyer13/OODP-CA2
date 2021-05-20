@@ -1,21 +1,21 @@
-package Companies;
+package Model;
 
-import Model.Tradeinfo;
+import Model.TradeInfo;
 import MyDepots.Depots;
-
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
+// this class is a template for all the companies, containing common elements that all of the companies share.
 public abstract class Companies {
+    // variables that are common across all the companies
+    protected Set<Integer> canBuy = new HashSet<>();
+    protected ArrayList<TradeInfo> trade = new ArrayList<>();
+    protected ArrayList<Depots> depot = new ArrayList<>();
+    protected String companyName;
 
- Set<Integer> canBuy = new HashSet<>();
-    ArrayList<Tradeinfo> trade = new ArrayList<>();
-    ArrayList<Depots> depot = new ArrayList<>();
-    String companyName;
-
-
-    public void setTrade(ArrayList<Tradeinfo> trade) {
+    // getters and setters for those variables
+    public void setTrade(ArrayList<TradeInfo> trade) {
         this.trade = trade;
     }
 

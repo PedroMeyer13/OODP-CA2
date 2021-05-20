@@ -1,10 +1,11 @@
 package MyDepots;
 
 import Model.Product;
-import Model.Tradeinfo;
+import Model.TradeInfo;
 
 import java.util.ArrayList;
 
+// this class creates a new depot
 public class Depots {
 
     // Common attributes for all depots
@@ -18,15 +19,29 @@ public class Depots {
     protected int price;
 
 
-    public ArrayList<Tradeinfo> getTrade() {
+    // constructor of a depot
+    public Depots(String name, Product nativeProduct) {
+        this.name = name;
+        this.nativeProduct = nativeProduct;
+        this.nativeStock = getRandomNumber(15, 50);
+        this.externalProduct = getRandomNumber(3, 40);
+        this.allowance = getRandomNumber(50, 100);
+        this.price = (getRandomNumber(1, 10));
+        this.deliveryPrice = (getRandomNumber(1, 10));
+
+
+    }
+    // setters and getter for all the parameters above
+
+    public ArrayList<TradeInfo> getTrade() {
         return trade;
     }
 
-    public void setTrade(ArrayList<Tradeinfo> trade) {
+    public void setTrade(ArrayList<TradeInfo> trade) {
         this.trade = trade;
     }
 
-    protected ArrayList<Tradeinfo> trade = new ArrayList<>();
+    protected ArrayList<TradeInfo> trade = new ArrayList<>();
 
     public int getPrice() {
         return price;
@@ -35,19 +50,6 @@ public class Depots {
     public void setPrice(int price) {
         this.price = price;
     }
-
-    public Depots(String name, Product nativeProduct){
-            this.name = name;
-            this.nativeProduct = nativeProduct;
-            this.nativeStock = getRandomNumber(15,50);
-            this.externalProduct = getRandomNumber(3,40);
-            this.allowance = getRandomNumber(50,100);
-            this.price= (getRandomNumber(1,10));
-            this.deliveryPrice=(getRandomNumber(1,10));
-
-
-}
-    // setters and getter for all the parameters above
 
     public int getNativeStock() {
         return nativeStock;
@@ -105,8 +107,8 @@ public class Depots {
         this.cashBalance = cashBalance;
     }
 
-    private int getRandomNumber(int min, int max){
-        int random_int = (int)Math.floor(Math.random()*(max-min+1) + min);
+    private int getRandomNumber(int min, int max) {
+        int random_int = (int) Math.floor(Math.random() * (max - min + 1) + min);
         return random_int;
     }
 
