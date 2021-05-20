@@ -9,27 +9,18 @@ import java.util.Set;
 
 public abstract class Companies {
 
-    protected ArrayList<Integer> buyList = new ArrayList<>();
-    protected Set<Integer> canBuy = new HashSet<>();
-    protected ArrayList<Tradeinfo> trade = new ArrayList<>();
-    protected ArrayList<Depots> depot = new ArrayList<>();
-    protected String companyName;
+ Set<Integer> canBuy = new HashSet<>();
+    ArrayList<Tradeinfo> trade = new ArrayList<>();
+    ArrayList<Depots> depot = new ArrayList<>();
+    String companyName;
 
-
-    public ArrayList<Integer> getBuyList() {
-        return buyList;
-    }
-
-    public void setBuyList(ArrayList<Integer> buyList) {
-        this.buyList = buyList;
-    }
 
     public void setTrade(ArrayList<Tradeinfo> trade) {
         this.trade = trade;
     }
 
     public Depots getDepot(int randomNumber) {
-        return depot.get(randomNumber);
+        return depot.get(randomNumber-1);
     }
 
     public void setDepot(ArrayList<Depots> depot) {

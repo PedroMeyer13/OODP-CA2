@@ -18,19 +18,6 @@ public class Depots {
     protected int price;
 
 
-    public Depots(String name, Product nativeProduct){
-            this.name = name;
-            this.nativeProduct = nativeProduct;
-            this.nativeStock = getRandomNumber(15,50);
-            this.externalProduct = getRandomNumber(3,40);
-            this.allowance = getRandomNumber(50,100);
-            this.price= (getRandomNumber(1,10));
-            this.deliveryPrice=(getRandomNumber(1,10));
-
-
-}
-    // setters and getter for all the parameters above
-
     public ArrayList<Tradeinfo> getTrade() {
         return trade;
     }
@@ -49,6 +36,18 @@ public class Depots {
         this.price = price;
     }
 
+    public Depots(String name, Product nativeProduct){
+            this.name = name;
+            this.nativeProduct = nativeProduct;
+            this.nativeStock = getRandomNumber(15,50);
+            this.externalProduct = getRandomNumber(3,40);
+            this.allowance = getRandomNumber(50,100);
+            this.price= (getRandomNumber(1,10));
+            this.deliveryPrice=(getRandomNumber(1,10));
+
+
+}
+    // setters and getter for all the parameters above
 
     public int getNativeStock() {
         return nativeStock;
