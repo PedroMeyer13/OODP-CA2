@@ -1,0 +1,1869 @@
+CompanyB
+Depot: B1, Transaction Type: Buy, Client: C23, Product: Product C, Total: 16
+
+Depot: B1, Transaction Type: Sell, Client: A27, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B1, Transaction Type: Sell, Client: C16, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: C14, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B1, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B1, Transaction Type: Sell, Client: C28, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: A14, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B1, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B1, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B1, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B1, Transaction Type: Sell, Client: A23, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: C11, Product: Product C, Total: 13
+
+Depot: B1, Transaction Type: Buy, Client: A19, Product: Product A, Total: 11
+
+Depot: B1, Transaction Type: Sell, Client: C21, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B1, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B1, Transaction Type: Sell, Client: C5, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B1, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B1, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B1, Transaction Type: Sell, Client: C17, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: C8, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: C20, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B1, Transaction Type: Sell, Client: C11, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: A18, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B1, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B1, Transaction Type: Sell, Client: C6, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: C8, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B1, Transaction Type: Sell, Client: C15, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B1, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B1, Transaction Type: Sell, Client: C20, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: C11, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: C21, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B1, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B1, Transaction Type: Sell, Client: C9, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B1, Transaction Type: Sell, Client: A18, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: A4, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Sell, Client: A13, Product: Product B, Total: 18
+
+Depot: B1, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B2, Transaction Type: Buy, Client: C43, Product: Product C, Total: 14
+
+Depot: B2, Transaction Type: Buy, Client: A31, Product: Product A, Total: 6
+
+Depot: B2, Transaction Type: Sell, Client: C35, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B2, Transaction Type: Sell, Client: C33, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A23, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B2, Transaction Type: Sell, Client: A7, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B2, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B2, Transaction Type: Sell, Client: C28, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A21, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A9, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C14, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B2, Transaction Type: Sell, Client: C17, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A14, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B2, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B2, Transaction Type: Sell, Client: C13, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A14, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Buy, Client: A21, Product: Product A, Total: 16
+
+Depot: B2, Transaction Type: Sell, Client: C8, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C20, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C21, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A20, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C20, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C15, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A18, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A3, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C14, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A1, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A3, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: C17, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A8, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A3, Product: Product B, Total: 13
+
+Depot: B2, Transaction Type: Sell, Client: A18, Product: Product B, Total: 13
+
+Depot: B3, Transaction Type: Sell, Client: A19, Product: Product B, Total: 12
+
+Depot: B3, Transaction Type: Sell, Client: A10, Product: Product B, Total: 12
+
+Depot: B3, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B3, Transaction Type: Sell, Client: A5, Product: Product B, Total: 12
+
+Depot: B3, Transaction Type: Buy, Client: C30, Product: Product C, Total: 11
+
+Depot: B3, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B3, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B3, Transaction Type: Buy, Client: C26, Product: Product C, Total: 7
+
+Depot: B3, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B4, Transaction Type: Buy, Client: C15, Product: Product C, Total: 13
+
+Depot: B4, Transaction Type: Buy, Client: C13, Product: Product C, Total: 18
+
+Depot: B4, Transaction Type: Sell, Client: A34, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A10, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: C38, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B4, Transaction Type: Sell, Client: A18, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B4, Transaction Type: Sell, Client: C31, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B4, Transaction Type: Sell, Client: A4, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: C8, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B4, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B4, Transaction Type: Sell, Client: C12, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A1, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B4, Transaction Type: Sell, Client: A11, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A21, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B4, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B4, Transaction Type: Sell, Client: C14, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A10, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B4, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B4, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B4, Transaction Type: Sell, Client: C11, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: A19, Product: Product A, Total: 11
+
+Depot: B4, Transaction Type: Sell, Client: A19, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: C5, Product: Product C, Total: 10
+
+Depot: B4, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B4, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B4, Transaction Type: Sell, Client: C8, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A10, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B4, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B4, Transaction Type: Sell, Client: C21, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A7, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: A13, Product: Product B, Total: 20
+
+Depot: B4, Transaction Type: Sell, Client: C13, Product: Product B, Total: 20
+
+Depot: B5, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B5, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B5, Transaction Type: Buy, Client: A35, Product: Product A, Total: 11
+
+Depot: B5, Transaction Type: Sell, Client: C26, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B5, Transaction Type: Sell, Client: A24, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: A27, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: C20, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: C24, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: C16, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: A24, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B5, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B5, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B5, Transaction Type: Sell, Client: A11, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: A4, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: C16, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B5, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B5, Transaction Type: Sell, Client: C9, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: C12, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: A18, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B5, Transaction Type: Sell, Client: C21, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: A7, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B5, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B5, Transaction Type: Sell, Client: A5, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Sell, Client: A13, Product: Product B, Total: 7
+
+Depot: B5, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B5, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B5, Transaction Type: Sell, Client: C15, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: C48, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: A34, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: A36, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: A2, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: C13, Product: Product C, Total: 18
+
+Depot: B6, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B6, Transaction Type: Buy, Client: C11, Product: Product C, Total: 13
+
+Depot: B6, Transaction Type: Buy, Client: C20, Product: Product C, Total: 5
+
+Depot: B6, Transaction Type: Sell, Client: C29, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: C9, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: A29, Product: Product A, Total: 20
+
+Depot: B6, Transaction Type: Buy, Client: C23, Product: Product C, Total: 16
+
+Depot: B6, Transaction Type: Sell, Client: C1, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: C2, Product: Product C, Total: 14
+
+Depot: B6, Transaction Type: Sell, Client: C19, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: A7, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B6, Transaction Type: Sell, Client: C14, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: A27, Product: Product A, Total: 19
+
+Depot: B6, Transaction Type: Sell, Client: C1, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Sell, Client: C12, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B6, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B6, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B6, Transaction Type: Sell, Client: A22, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B6, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B6, Transaction Type: Sell, Client: A8, Product: Product B, Total: 7
+
+Depot: B6, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B6, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B7, Transaction Type: Buy, Client: C37, Product: Product C, Total: 9
+
+Depot: B7, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B7, Transaction Type: Sell, Client: A18, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: C31, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: A8, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: C27, Product: Product C, Total: 2
+
+Depot: B7, Transaction Type: Sell, Client: C34, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A34, Product: Product A, Total: 19
+
+Depot: B7, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B7, Transaction Type: Buy, Client: C12, Product: Product C, Total: 14
+
+Depot: B7, Transaction Type: Sell, Client: C14, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B7, Transaction Type: Sell, Client: C15, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: C12, Product: Product C, Total: 14
+
+Depot: B7, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B7, Transaction Type: Sell, Client: A19, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B7, Transaction Type: Buy, Client: C12, Product: Product C, Total: 14
+
+Depot: B7, Transaction Type: Sell, Client: C12, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B7, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B7, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B7, Transaction Type: Sell, Client: C12, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: C13, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: A19, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: C15, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B7, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B7, Transaction Type: Sell, Client: C11, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B7, Transaction Type: Sell, Client: C11, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: A7, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B7, Transaction Type: Sell, Client: A4, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B7, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B7, Transaction Type: Sell, Client: A10, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B7, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B7, Transaction Type: Sell, Client: C13, Product: Product B, Total: 11
+
+Depot: B7, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B8, Transaction Type: Sell, Client: C25, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C23, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A25, Product: Product A, Total: 4
+
+Depot: B8, Transaction Type: Buy, Client: A21, Product: Product A, Total: 16
+
+Depot: B8, Transaction Type: Sell, Client: C33, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B8, Transaction Type: Sell, Client: A13, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C9, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C11, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C21, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B8, Transaction Type: Buy, Client: C25, Product: Product C, Total: 12
+
+Depot: B8, Transaction Type: Sell, Client: A8, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B8, Transaction Type: Sell, Client: A5, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: A20, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B8, Transaction Type: Sell, Client: A3, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B8, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: A1, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C23, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: A1, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B8, Transaction Type: Sell, Client: C11, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B8, Transaction Type: Sell, Client: A9, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B8, Transaction Type: Sell, Client: C23, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C14, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B8, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B8, Transaction Type: Sell, Client: C14, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: A4, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B8, Transaction Type: Sell, Client: A13, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B8, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B8, Transaction Type: Sell, Client: A4, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: A4, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: C11, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B8, Transaction Type: Sell, Client: C20, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B8, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B8, Transaction Type: Sell, Client: C15, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Sell, Client: A19, Product: Product B, Total: 15
+
+Depot: B8, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B9, Transaction Type: Buy, Client: C27, Product: Product C, Total: 2
+
+Depot: B9, Transaction Type: Buy, Client: C30, Product: Product C, Total: 11
+
+Depot: B9, Transaction Type: Sell, Client: C33, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A34, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Buy, Client: A24, Product: Product A, Total: 20
+
+Depot: B9, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B9, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B9, Transaction Type: Sell, Client: C7, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A23, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B9, Transaction Type: Buy, Client: A33, Product: Product A, Total: 8
+
+Depot: B9, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B9, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B9, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B9, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B9, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B9, Transaction Type: Buy, Client: C20, Product: Product C, Total: 5
+
+Depot: B9, Transaction Type: Sell, Client: A22, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A24, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: C8, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B9, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B9, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B9, Transaction Type: Buy, Client: C5, Product: Product C, Total: 10
+
+Depot: B9, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B9, Transaction Type: Sell, Client: A4, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: C21, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: C11, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A9, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A4, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A11, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: C11, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A8, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A14, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: C1, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: C1, Product: Product B, Total: 19
+
+Depot: B9, Transaction Type: Sell, Client: A9, Product: Product B, Total: 19
+
+Depot: B10, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B10, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B10, Transaction Type: Sell, Client: A29, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Sell, Client: C5, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Buy, Client: C33, Product: Product C, Total: 3
+
+Depot: B10, Transaction Type: Sell, Client: A3, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Buy, Client: A42, Product: Product A, Total: 11
+
+Depot: B10, Transaction Type: Buy, Client: C44, Product: Product C, Total: 10
+
+Depot: B10, Transaction Type: Sell, Client: C27, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Sell, Client: A11, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Sell, Client: C35, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Sell, Client: C17, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Sell, Client: A34, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Buy, Client: A32, Product: Product A, Total: 8
+
+Depot: B10, Transaction Type: Buy, Client: A29, Product: Product A, Total: 20
+
+Depot: B10, Transaction Type: Buy, Client: C12, Product: Product C, Total: 14
+
+Depot: B10, Transaction Type: Sell, Client: C31, Product: Product B, Total: 18
+
+Depot: B10, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B10, Transaction Type: Buy, Client: A22, Product: Product A, Total: 6
+
+Depot: B10, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B10, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B10, Transaction Type: Buy, Client: A22, Product: Product A, Total: 6
+
+Depot: B10, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B10, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B10, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B10, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B10, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B10, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B10, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B10, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B10, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B10, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B10, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B10, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B10, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B10, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B11, Transaction Type: Sell, Client: C44, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Buy, Client: A2, Product: Product A, Total: 7
+
+Depot: B11, Transaction Type: Sell, Client: A8, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B11, Transaction Type: Buy, Client: A30, Product: Product A, Total: 8
+
+Depot: B11, Transaction Type: Sell, Client: C8, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A6, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B11, Transaction Type: Sell, Client: A5, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A33, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: C1, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A18, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A8, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: C5, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: C21, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A3, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: C1, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A18, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: C11, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A8, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: C12, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A8, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A9, Product: Product B, Total: 16
+
+Depot: B11, Transaction Type: Sell, Client: A1, Product: Product B, Total: 16
+
+Depot: B12, Transaction Type: Sell, Client: A45, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: A4, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: A3, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B12, Transaction Type: Sell, Client: A41, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B12, Transaction Type: Sell, Client: A6, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: C7, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: C1, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B12, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B12, Transaction Type: Sell, Client: A2, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: A9, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: C21, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: A18, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Sell, Client: C1, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B12, Transaction Type: Sell, Client: C13, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B12, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B12, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B12, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B12, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B12, Transaction Type: Sell, Client: C1, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B12, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B12, Transaction Type: Sell, Client: A13, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B12, Transaction Type: Sell, Client: A4, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B12, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B12, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B12, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B12, Transaction Type: Sell, Client: A11, Product: Product B, Total: 10
+
+Depot: B12, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B12, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B12, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B12, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B12, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B12, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B13, Transaction Type: Buy, Client: C5, Product: Product C, Total: 10
+
+Depot: B13, Transaction Type: Sell, Client: C43, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B13, Transaction Type: Sell, Client: A9, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Buy, Client: C27, Product: Product C, Total: 2
+
+Depot: B13, Transaction Type: Sell, Client: A8, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C21, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A9, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Buy, Client: A25, Product: Product A, Total: 4
+
+Depot: B13, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B13, Transaction Type: Sell, Client: A21, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C8, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C10, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B13, Transaction Type: Sell, Client: A22, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B13, Transaction Type: Sell, Client: A25, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C11, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A18, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C7, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A23, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C20, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A13, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C14, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A18, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A8, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C12, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: C14, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A1, Product: Product B, Total: 15
+
+Depot: B13, Transaction Type: Sell, Client: A19, Product: Product B, Total: 15
+
+Depot: B14, Transaction Type: Sell, Client: C43, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: A8, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C23, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C15, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: A32, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B14, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B14, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B14, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B14, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B14, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B14, Transaction Type: Sell, Client: C35, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B14, Transaction Type: Sell, Client: A3, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: A18, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B14, Transaction Type: Sell, Client: A29, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: A9, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: A24, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C12, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B14, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B14, Transaction Type: Sell, Client: C14, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B14, Transaction Type: Buy, Client: A19, Product: Product A, Total: 11
+
+Depot: B14, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B14, Transaction Type: Sell, Client: A18, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C7, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C12, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C13, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B14, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B14, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B14, Transaction Type: Sell, Client: A1, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: A13, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B14, Transaction Type: Buy, Client: C12, Product: Product C, Total: 14
+
+Depot: B14, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B14, Transaction Type: Sell, Client: A9, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C20, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B14, Transaction Type: Sell, Client: A5, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C12, Product: Product B, Total: 18
+
+Depot: B14, Transaction Type: Sell, Client: C1, Product: Product B, Total: 18
+
+Depot: B15, Transaction Type: Sell, Client: C26, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: A19, Product: Product A, Total: 11
+
+Depot: B15, Transaction Type: Buy, Client: A21, Product: Product A, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: A38, Product: Product A, Total: 13
+
+Depot: B15, Transaction Type: Sell, Client: C42, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Sell, Client: A36, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B15, Transaction Type: Sell, Client: A15, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Sell, Client: A11, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B15, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B15, Transaction Type: Sell, Client: C20, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B15, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B15, Transaction Type: Sell, Client: C20, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Sell, Client: C5, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Sell, Client: C11, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B15, Transaction Type: Sell, Client: A19, Product: Product B, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B15, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B15, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B15, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B15, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B15, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B15, Transaction Type: Buy, Client: A7, Product: Product A, Total: 16
+
+Depot: B15, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B15, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B15, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B16, Transaction Type: Buy, Client: C8, Product: Product C, Total: 11
+
+Depot: B16, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B16, Transaction Type: Buy, Client: A15, Product: Product A, Total: 16
+
+Depot: B16, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B16, Transaction Type: Sell, Client: C30, Product: Product B, Total: 18
+
+Depot: B16, Transaction Type: Sell, Client: C6, Product: Product B, Total: 18
+
+Depot: B16, Transaction Type: Sell, Client: A30, Product: Product B, Total: 18
+
+Depot: B16, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B16, Transaction Type: Sell, Client: C27, Product: Product B, Total: 18
+
+Depot: B16, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B16, Transaction Type: Buy, Client: A28, Product: Product A, Total: 9
+
+Depot: B16, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B16, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B16, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B16, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B16, Transaction Type: Buy, Client: C20, Product: Product C, Total: 5
+
+Depot: B16, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B16, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B16, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B16, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B16, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B16, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B16, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B16, Transaction Type: Buy, Client: A5, Product: Product A, Total: 16
+
+Depot: B16, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B17, Transaction Type: Sell, Client: C13, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B17, Transaction Type: Buy, Client: C5, Product: Product C, Total: 10
+
+Depot: B17, Transaction Type: Sell, Client: A13, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B17, Transaction Type: Buy, Client: C23, Product: Product C, Total: 16
+
+Depot: B17, Transaction Type: Sell, Client: A8, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: C10, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B17, Transaction Type: Buy, Client: C24, Product: Product C, Total: 19
+
+Depot: B17, Transaction Type: Sell, Client: C12, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B17, Transaction Type: Sell, Client: A7, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: C11, Product: Product C, Total: 13
+
+Depot: B17, Transaction Type: Sell, Client: C6, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B17, Transaction Type: Sell, Client: C5, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: C7, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B17, Transaction Type: Sell, Client: A9, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: C6, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: A3, Product: Product A, Total: 5
+
+Depot: B17, Transaction Type: Sell, Client: A13, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: C15, Product: Product C, Total: 13
+
+Depot: B17, Transaction Type: Sell, Client: C7, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: C15, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B17, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B17, Transaction Type: Sell, Client: A3, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: A5, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: C21, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: A7, Product: Product B, Total: 8
+
+Depot: B17, Transaction Type: Sell, Client: A5, Product: Product B, Total: 8
+
+Depot: B18, Transaction Type: Sell, Client: C23, Product: Product B, Total: 15
+
+Depot: B18, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B18, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B18, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B18, Transaction Type: Buy, Client: A31, Product: Product A, Total: 6
+
+Depot: B18, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B18, Transaction Type: Sell, Client: A25, Product: Product B, Total: 15
+
+Depot: B18, Transaction Type: Buy, Client: C2, Product: Product C, Total: 14
+
+Depot: B18, Transaction Type: Buy, Client: C23, Product: Product C, Total: 16
+
+Depot: B18, Transaction Type: Buy, Client: A29, Product: Product A, Total: 20
+
+Depot: B18, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B18, Transaction Type: Buy, Client: C2, Product: Product C, Total: 14
+
+Depot: B18, Transaction Type: Buy, Client: A16, Product: Product A, Total: 16
+
+Depot: B19, Transaction Type: Sell, Client: C44, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C10, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Buy, Client: A28, Product: Product A, Total: 9
+
+Depot: B19, Transaction Type: Sell, Client: C10, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Buy, Client: A45, Product: Product A, Total: 3
+
+Depot: B19, Transaction Type: Sell, Client: A43, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: A1, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B19, Transaction Type: Sell, Client: C17, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B19, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B19, Transaction Type: Sell, Client: C24, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C28, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C21, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C15, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C12, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: A3, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C1, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: A18, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: C13, Product: Product B, Total: 19
+
+Depot: B19, Transaction Type: Sell, Client: A22, Product: Product B, Total: 19
+
+Depot: B20, Transaction Type: Buy, Client: A25, Product: Product A, Total: 4
+
+Depot: B20, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B20, Transaction Type: Sell, Client: C37, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Buy, Client: C13, Product: Product C, Total: 18
+
+Depot: B20, Transaction Type: Sell, Client: C30, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Buy, Client: C32, Product: Product C, Total: 13
+
+Depot: B20, Transaction Type: Sell, Client: C17, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Buy, Client: A19, Product: Product A, Total: 11
+
+Depot: B20, Transaction Type: Sell, Client: A7, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C8, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C11, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A9, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A21, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A1, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C10, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C24, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A10, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C6, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A19, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C5, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A8, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: A9, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C8, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C13, Product: Product B, Total: 6
+
+Depot: B20, Transaction Type: Sell, Client: C13, Product: Product B, Total: 6
+
+Depot: B21, Transaction Type: Buy, Client: A27, Product: Product A, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: A44, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: C12, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Buy, Client: A26, Product: Product A, Total: 6
+
+Depot: B21, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B21, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B21, Transaction Type: Buy, Client: C11, Product: Product C, Total: 13
+
+Depot: B21, Transaction Type: Sell, Client: C33, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: C13, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B21, Transaction Type: Sell, Client: A3, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: A29, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: C29, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Buy, Client: A21, Product: Product A, Total: 16
+
+Depot: B21, Transaction Type: Sell, Client: A25, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: A18, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B21, Transaction Type: Sell, Client: C24, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B21, Transaction Type: Sell, Client: A14, Product: Product B, Total: 19
+
+Depot: B21, Transaction Type: Sell, Client: C8, Product: Product B, Total: 19
+
+Depot: B22, Transaction Type: Sell, Client: C13, Product: Product B, Total: 11
+
+Depot: B22, Transaction Type: Sell, Client: A27, Product: Product B, Total: 11
+
+Depot: B22, Transaction Type: Sell, Client: A11, Product: Product B, Total: 11
+
+Depot: B22, Transaction Type: Sell, Client: A3, Product: Product B, Total: 11
+
+Depot: B22, Transaction Type: Sell, Client: A7, Product: Product B, Total: 11
+
+Depot: B22, Transaction Type: Sell, Client: A8, Product: Product B, Total: 11
+
+Depot: B22, Transaction Type: Sell, Client: C11, Product: Product B, Total: 11
+
+Depot: B23, Transaction Type: Buy, Client: A22, Product: Product A, Total: 6
+
+Depot: B23, Transaction Type: Sell, Client: C35, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Sell, Client: A30, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B23, Transaction Type: Sell, Client: A40, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Buy, Client: A37, Product: Product A, Total: 4
+
+Depot: B23, Transaction Type: Buy, Client: A30, Product: Product A, Total: 8
+
+Depot: B23, Transaction Type: Sell, Client: A18, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B23, Transaction Type: Sell, Client: A13, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Sell, Client: A5, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Sell, Client: A14, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Buy, Client: A7, Product: Product A, Total: 16
+
+Depot: B23, Transaction Type: Sell, Client: A10, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B23, Transaction Type: Sell, Client: C20, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Sell, Client: C21, Product: Product B, Total: 12
+
+Depot: B23, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B23, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B24, Transaction Type: Sell, Client: A47, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Buy, Client: A2, Product: Product A, Total: 7
+
+Depot: B24, Transaction Type: Buy, Client: C5, Product: Product C, Total: 10
+
+Depot: B24, Transaction Type: Buy, Client: C13, Product: Product C, Total: 18
+
+Depot: B24, Transaction Type: Sell, Client: A19, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: C38, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Buy, Client: C14, Product: Product C, Total: 9
+
+Depot: B24, Transaction Type: Sell, Client: C14, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: A19, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: C27, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Buy, Client: A7, Product: Product A, Total: 16
+
+Depot: B24, Transaction Type: Sell, Client: C18, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Buy, Client: A32, Product: Product A, Total: 8
+
+Depot: B24, Transaction Type: Sell, Client: A8, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: C9, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Buy, Client: C5, Product: Product C, Total: 10
+
+Depot: B24, Transaction Type: Sell, Client: C10, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B24, Transaction Type: Sell, Client: A23, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: A21, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: C13, Product: Product B, Total: 6
+
+Depot: B24, Transaction Type: Sell, Client: A20, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Buy, Client: C32, Product: Product C, Total: 13
+
+Depot: B25, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: A24, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: C39, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: C14, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: A2, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: C34, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: A20, Product: Product B, Total: 6
+
+Depot: B25, Transaction Type: Sell, Client: A19, Product: Product B, Total: 6
+
+Depot: B26, Transaction Type: Buy, Client: A31, Product: Product A, Total: 6
+
+Depot: B26, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B26, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B26, Transaction Type: Buy, Client: C35, Product: Product C, Total: 8
+
+Depot: B26, Transaction Type: Buy, Client: C8, Product: Product C, Total: 11
+
+Depot: B26, Transaction Type: Buy, Client: A28, Product: Product A, Total: 9
+
+Depot: B26, Transaction Type: Sell, Client: C2, Product: Product B, Total: 16
+
+Depot: B26, Transaction Type: Buy, Client: A10, Product: Product A, Total: 13
+
+Depot: B26, Transaction Type: Buy, Client: A23, Product: Product A, Total: 2
+
+Depot: B26, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B26, Transaction Type: Sell, Client: A14, Product: Product B, Total: 16
+
+Depot: B26, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B26, Transaction Type: Sell, Client: A23, Product: Product B, Total: 16
+
+Depot: B26, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B26, Transaction Type: Sell, Client: C19, Product: Product B, Total: 16
+
+Depot: B26, Transaction Type: Sell, Client: C26, Product: Product B, Total: 16
+
+Depot: B26, Transaction Type: Sell, Client: A13, Product: Product B, Total: 16
+
+Depot: B26, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B26, Transaction Type: Buy, Client: A12, Product: Product A, Total: 3
+
+Depot: B26, Transaction Type: Buy, Client: A29, Product: Product A, Total: 20
+
+Depot: B26, Transaction Type: Buy, Client: C27, Product: Product C, Total: 2
+
+Depot: B27, Transaction Type: Sell, Client: A20, Product: Product B, Total: 11
+
+Depot: B27, Transaction Type: Sell, Client: C2, Product: Product B, Total: 11
+
+Depot: B27, Transaction Type: Sell, Client: C2, Product: Product B, Total: 11
+
+Depot: B27, Transaction Type: Sell, Client: A27, Product: Product B, Total: 11
+
+Depot: B27, Transaction Type: Buy, Client: C26, Product: Product C, Total: 7
+
+Depot: B27, Transaction Type: Sell, Client: C28, Product: Product B, Total: 11
+
+Depot: B27, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B27, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B27, Transaction Type: Buy, Client: A27, Product: Product A, Total: 19
+
+Depot: B27, Transaction Type: Buy, Client: C20, Product: Product C, Total: 5
+
+Depot: B27, Transaction Type: Buy, Client: C25, Product: Product C, Total: 12
+
+Depot: B27, Transaction Type: Buy, Client: C26, Product: Product C, Total: 7
+
+Depot: B27, Transaction Type: Buy, Client: A13, Product: Product A, Total: 6
+
+Depot: B27, Transaction Type: Buy, Client: C9, Product: Product C, Total: 14
+
+Depot: B27, Transaction Type: Buy, Client: C32, Product: Product C, Total: 13
+
+Depot: B27, Transaction Type: Buy, Client: C12, Product: Product C, Total: 14
+
+Depot: B27, Transaction Type: Buy, Client: C1, Product: Product C, Total: 17
+
+Depot: B28, Transaction Type: Sell, Client: C45, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Buy, Client: C29, Product: Product C, Total: 13
+
+Depot: B28, Transaction Type: Buy, Client: C31, Product: Product C, Total: 15
+
+Depot: B28, Transaction Type: Sell, Client: C44, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Buy, Client: A19, Product: Product A, Total: 11
+
+Depot: B28, Transaction Type: Buy, Client: C26, Product: Product C, Total: 7
+
+Depot: B28, Transaction Type: Buy, Client: A25, Product: Product A, Total: 4
+
+Depot: B28, Transaction Type: Sell, Client: A38, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Sell, Client: C16, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Sell, Client: C18, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Buy, Client: C18, Product: Product C, Total: 4
+
+Depot: B28, Transaction Type: Sell, Client: A32, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Sell, Client: A1, Product: Product B, Total: 8
+
+Depot: B28, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B28, Transaction Type: Buy, Client: C2, Product: Product C, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: C28, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: A10, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: C22, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: C30, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: C39, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B29, Transaction Type: Buy, Client: C30, Product: Product C, Total: 11
+
+Depot: B29, Transaction Type: Sell, Client: A10, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B29, Transaction Type: Sell, Client: A13, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: C28, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Buy, Client: C3, Product: Product C, Total: 13
+
+Depot: B29, Transaction Type: Sell, Client: C24, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: A8, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: C9, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Buy, Client: A29, Product: Product A, Total: 20
+
+Depot: B29, Transaction Type: Sell, Client: A4, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Sell, Client: A6, Product: Product B, Total: 14
+
+Depot: B29, Transaction Type: Buy, Client: A4, Product: Product A, Total: 14
+
+Depot: B29, Transaction Type: Buy, Client: C25, Product: Product C, Total: 12
+
+Depot: B30, Transaction Type: Sell, Client: A3, Product: Product B, Total: 13
+
+Depot: B30, Transaction Type: Sell, Client: A1, Product: Product B, Total: 13
+
+Depot: B30, Transaction Type: Sell, Client: C41, Product: Product B, Total: 13
+
+Depot: B30, Transaction Type: Buy, Client: A2, Product: Product A, Total: 7
+
+Depot: B30, Transaction Type: Buy, Client: C23, Product: Product C, Total: 16
+
+Depot: B30, Transaction Type: Sell, Client: A27, Product: Product B, Total: 13
+
+Depot: B30, Transaction Type: Sell, Client: A26, Product: Product B, Total: 13
+
+Depot: B30, Transaction Type: Sell, Client: C9, Product: Product B, Total: 13
+
+Depot: B30, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B30, Transaction Type: Sell, Client: C9, Product: Product B, Total: 13
+
+Depot: B31, Transaction Type: Sell, Client: C9, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Sell, Client: A7, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Sell, Client: C13, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Sell, Client: A6, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B31, Transaction Type: Buy, Client: A26, Product: Product A, Total: 6
+
+Depot: B31, Transaction Type: Sell, Client: A36, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Sell, Client: C39, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Sell, Client: A9, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Sell, Client: C14, Product: Product B, Total: 17
+
+Depot: B31, Transaction Type: Buy, Client: C6, Product: Product C, Total: 8
+
+Depot: B32, Transaction Type: Sell, Client: C46, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Sell, Client: A22, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Buy, Client: A45, Product: Product A, Total: 3
+
+Depot: B32, Transaction Type: Sell, Client: A21, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Sell, Client: C15, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B32, Transaction Type: Sell, Client: A22, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Sell, Client: C28, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Buy, Client: C17, Product: Product C, Total: 15
+
+Depot: B32, Transaction Type: Buy, Client: A26, Product: Product A, Total: 6
+
+Depot: B32, Transaction Type: Sell, Client: A4, Product: Product B, Total: 18
+
+Depot: B32, Transaction Type: Sell, Client: A5, Product: Product B, Total: 18
+
+Depot: B33, Transaction Type: Sell, Client: A28, Product: Product B, Total: 13
+
+Depot: B33, Transaction Type: Buy, Client: C7, Product: Product C, Total: 9
+
+Depot: B33, Transaction Type: Sell, Client: C14, Product: Product B, Total: 13
+
+Depot: B33, Transaction Type: Buy, Client: C10, Product: Product C, Total: 7
+
+Depot: B33, Transaction Type: Sell, Client: A6, Product: Product B, Total: 13
+
+Depot: B33, Transaction Type: Buy, Client: A44, Product: Product A, Total: 13
+
+Depot: B33, Transaction Type: Sell, Client: C12, Product: Product B, Total: 13
+
+Depot: B33, Transaction Type: Buy, Client: A11, Product: Product A, Total: 11
+
+Depot: B33, Transaction Type: Sell, Client: C3, Product: Product B, Total: 13
+
+Depot: B33, Transaction Type: Sell, Client: A6, Product: Product B, Total: 13
+
+Depot: B33, Transaction Type: Buy, Client: A1, Product: Product A, Total: 9
+
+Depot: B33, Transaction Type: Buy, Client: C21, Product: Product C, Total: 9
+
+Depot: B33, Transaction Type: Buy, Client: A28, Product: Product A, Total: 9
+
+Depot: B33, Transaction Type: Sell, Client: A17, Product: Product B, Total: 13
+
+Depot: B34, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B34, Transaction Type: Sell, Client: C27, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Sell, Client: A35, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Sell, Client: A39, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Sell, Client: C44, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Buy, Client: C25, Product: Product C, Total: 12
+
+Depot: B34, Transaction Type: Sell, Client: A38, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Sell, Client: A3, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B34, Transaction Type: Sell, Client: C2, Product: Product B, Total: 11
+
+Depot: B34, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B35, Transaction Type: Sell, Client: A1, Product: Product B, Total: 8
+
+Depot: B35, Transaction Type: Sell, Client: A21, Product: Product B, Total: 8
+
+Depot: B35, Transaction Type: Buy, Client: C42, Product: Product C, Total: 11
+
+Depot: B35, Transaction Type: Sell, Client: A7, Product: Product B, Total: 8
+
+Depot: B35, Transaction Type: Buy, Client: C13, Product: Product C, Total: 18
+
+Depot: B35, Transaction Type: Sell, Client: A6, Product: Product B, Total: 8
+
+Depot: B35, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B35, Transaction Type: Buy, Client: C30, Product: Product C, Total: 11
+
+Depot: B35, Transaction Type: Buy, Client: A25, Product: Product A, Total: 4
+
+Depot: B35, Transaction Type: Sell, Client: C24, Product: Product B, Total: 8
+
+Depot: B35, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B35, Transaction Type: Sell, Client: C30, Product: Product B, Total: 8
+
+Depot: B36, Transaction Type: Sell, Client: A42, Product: Product B, Total: 18
+
+Depot: B36, Transaction Type: Sell, Client: C13, Product: Product B, Total: 18
+
+Depot: B36, Transaction Type: Buy, Client: A26, Product: Product A, Total: 6
+
+Depot: B36, Transaction Type: Buy, Client: C26, Product: Product C, Total: 7
+
+Depot: B36, Transaction Type: Buy, Client: A7, Product: Product A, Total: 16
+
+Depot: B36, Transaction Type: Buy, Client: C26, Product: Product C, Total: 7
+
+Depot: B36, Transaction Type: Buy, Client: C16, Product: Product C, Total: 6
+
+Depot: B36, Transaction Type: Sell, Client: C36, Product: Product B, Total: 18
+
+Depot: B36, Transaction Type: Sell, Client: A18, Product: Product B, Total: 18
+
+Depot: B36, Transaction Type: Sell, Client: C29, Product: Product B, Total: 18
+
+Depot: B36, Transaction Type: Buy, Client: A4, Product: Product A, Total: 14
+
+Depot: B36, Transaction Type: Buy, Client: C19, Product: Product C, Total: 10
+
+Depot: B37, Transaction Type: Sell, Client: A5, Product: Product B, Total: 8
+
+Depot: B37, Transaction Type: Buy, Client: C20, Product: Product C, Total: 5
+
+Depot: B37, Transaction Type: Buy, Client: A27, Product: Product A, Total: 19
+
+Depot: B37, Transaction Type: Buy, Client: A14, Product: Product A, Total: 12
+
+Depot: B38, Transaction Type: Buy, Client: A17, Product: Product A, Total: 9
+
+Depot: B38, Transaction Type: Buy, Client: C22, Product: Product C, Total: 11
+
+Depot: B38, Transaction Type: Sell, Client: C1, Product: Product B, Total: 19
+
+Depot: B38, Transaction Type: Buy, Client: A32, Product: Product A, Total: 8
+
+Depot: B38, Transaction Type: Buy, Client: A6, Product: Product A, Total: 5
+
+Depot: B38, Transaction Type: Sell, Client: A35, Product: Product B, Total: 19
+
+Depot: B39, Transaction Type: Sell, Client: C30, Product: Product B, Total: 11
+
+Depot: B39, Transaction Type: Buy, Client: A8, Product: Product A, Total: 11
+
+Depot: B39, Transaction Type: Sell, Client: C11, Product: Product B, Total: 11
+
+Depot: B39, Transaction Type: Buy, Client: A42, Product: Product A, Total: 11
+
+Depot: B40, Transaction Type: Sell, Client: A10, Product: Product B, Total: 8
+
+Depot: B40, Transaction Type: Buy, Client: A21, Product: Product A, Total: 16
+
+Depot: B40, Transaction Type: Buy, Client: A9, Product: Product A, Total: 8
+
+Depot: B40, Transaction Type: Sell, Client: A19, Product: Product B, Total: 8
+
+Depot: B40, Transaction Type: Sell, Client: C7, Product: Product B, Total: 8
+
+Depot: B40, Transaction Type: Sell, Client: A10, Product: Product B, Total: 8
+
+Depot: B41, Transaction Type: Sell, Client: C11, Product: Product B, Total: 7
+
+Depot: B41, Transaction Type: Sell, Client: A21, Product: Product B, Total: 7
+
+Depot: B41, Transaction Type: Buy, Client: C24, Product: Product C, Total: 19
+
+Depot: B41, Transaction Type: Buy, Client: C46, Product: Product C, Total: 18
+
+Depot: B41, Transaction Type: Buy, Client: A18, Product: Product A, Total: 11
+
+Depot: B42, Transaction Type: Buy, Client: C32, Product: Product C, Total: 13
+
+Depot: B42, Transaction Type: Buy, Client: A39, Product: Product A, Total: 18
+
+Depot: B42, Transaction Type: Sell, Client: C48, Product: Product B, Total: 10
+
+Depot: B42, Transaction Type: Buy, Client: A30, Product: Product A, Total: 8
+
+Depot: B42, Transaction Type: Sell, Client: A13, Product: Product B, Total: 10
+
+Depot: B42, Transaction Type: Sell, Client: A9, Product: Product B, Total: 10
+
+Depot: B42, Transaction Type: Buy, Client: A35, Product: Product A, Total: 11
+
+Depot: B43, Transaction Type: Buy, Client: C24, Product: Product C, Total: 19
+
+Depot: B43, Transaction Type: Sell, Client: C36, Product: Product B, Total: 6
+
+Depot: B44, Transaction Type: Buy, Client: C4, Product: Product C, Total: 7
+
+Depot: B44, Transaction Type: Sell, Client: C49, Product: Product B, Total: 9
+
+Depot: B44, Transaction Type: Buy, Client: C7, Product: Product C, Total: 9
+
+Depot: B44, Transaction Type: Sell, Client: C5, Product: Product B, Total: 9
+
+Depot: B44, Transaction Type: Buy, Client: A26, Product: Product A, Total: 6
+
+Depot: B44, Transaction Type: Buy, Client: A25, Product: Product A, Total: 4
+
+Depot: B44, Transaction Type: Sell, Client: C39, Product: Product B, Total: 9
+
+Depot: B45, Transaction Type: Sell, Client: C11, Product: Product B, Total: 11
+
+Depot: B45, Transaction Type: Buy, Client: A20, Product: Product A, Total: 15
+
+Depot: B46, Transaction Type: Sell, Client: C17, Product: Product B, Total: 7
+
+Depot: B46, Transaction Type: Sell, Client: C39, Product: Product B, Total: 7
+
+Depot: B46, Transaction Type: Sell, Client: C1, Product: Product B, Total: 7
+
+Depot: B46, Transaction Type: Sell, Client: A36, Product: Product B, Total: 7
+
+Depot: B46, Transaction Type: Sell, Client: A45, Product: Product B, Total: 7
+
+Depot: B47, Transaction Type: Sell, Client: C46, Product: Product B, Total: 16
+
+Depot: B47, Transaction Type: Sell, Client: C16, Product: Product B, Total: 16
+
+Depot: B47, Transaction Type: Sell, Client: A47, Product: Product B, Total: 16
+
+Depot: B47, Transaction Type: Buy, Client: A28, Product: Product A, Total: 9
+
+Depot: B48, Transaction Type: Sell, Client: A22, Product: Product B, Total: 13
+
+Depot: B48, Transaction Type: Buy, Client: A28, Product: Product A, Total: 9
+
+Depot: B49, Transaction Type: Buy, Client: A24, Product: Product A, Total: 20
+

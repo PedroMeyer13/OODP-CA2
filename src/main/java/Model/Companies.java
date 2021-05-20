@@ -1,7 +1,5 @@
 package Model;
 
-import Model.TradeInfo;
-import MyDepots.Depots;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;

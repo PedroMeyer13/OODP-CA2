@@ -4,7 +4,7 @@ import AbstractProducts.ProductBFactory;
 import AbstractProducts.ProductFactory;
 import Model.Companies;
 import Model.Product;
-import MyDepots.Depots;
+import Model.Depots;
 
 // this class will create a company B
 public class CompanyB extends Companies {

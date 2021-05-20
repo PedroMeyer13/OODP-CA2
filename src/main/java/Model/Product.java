@@ -8,7 +8,6 @@ public abstract class Product {
     protected String name;
 
     // setters and getter for all the parameters above
-
     public int getPrice() {
         return price;
     }

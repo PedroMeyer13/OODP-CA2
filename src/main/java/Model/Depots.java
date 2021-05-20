@@ -1,4 +1,4 @@
-package MyDepots;
+package Model;
 
 import Model.Product;
 import Model.TradeInfo;
@@ -112,4 +112,15 @@ public class Depots {
         return random_int;
     }
 
+    @Override
+    public String toString() {
+        return "Depot: "+ getName() +
+                " Native Product: " + getNativeProduct() +
+                " Native Stock: " + getNativeStock() +
+                " External Stock: " +getExternalProduct() +
+                " Allowance: " + getAllowance() +
+                " Product Price: " + getPrice() +
+                " Delivery Price " + getDeliveryPrice()
+                ;
+    }
 }

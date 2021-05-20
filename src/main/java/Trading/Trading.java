@@ -2,7 +2,7 @@ package Trading;
 
 import Model.Companies;
 import Model.TradeInfo;
-import MyDepots.Depots;
+import Model.Depots;
 
 // this class is used to perform the transactions
 public class Trading {
